@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on **[https://medium.com/@ankit.anand4n](https://medium.com/@ankit.anand4n)**
 
-- 📄 Know about my experiences **[https://drive.google.com**
+- 📄 Know about my experiences **https://drive.google.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
