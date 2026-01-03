@@ -2,7 +2,7 @@
 
 ### About  Me
 
-<p align="left"> <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></p>
+<p align="left" style="padding-right: 15px;"> <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></p>
 
 - 🔭 I'm currently working on **A MERN Stack Project**
 
