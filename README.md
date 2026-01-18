@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-<p align="center">
+<p align="center" style="margin-bottom: 20px;">
   <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" />
 </p>
 
