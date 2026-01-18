@@ -29,8 +29,8 @@
 #### 📫 How to reach me
 > **[ankit.anand4n@gmail.com](mailto:ankit.anand4n@gmail.com)**
 
-#### ⚡ Fun fact
-> *I once mastered spinning a book on my fingertip, now I use that skill to dry my plate before meals.*
+#### 🎯 Quote I Live By
+> *Code is like humor. When you have to explain it, it’s bad.*
 
 <br />
 
