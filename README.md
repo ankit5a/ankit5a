@@ -36,7 +36,7 @@
 
 <p align="left">
   <a href="https://dev4a.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Link-blue?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://medium.com/@ankit.anand4n"><img src="https://img.shields.io/badge/Medium-Read%20Articles-black?style=for-the-badge&logo=medium" /></a>
+  <a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-Read%20Articles-black?style=for-the-badge&logo=medium" /></a>
   <a href="https://drive.google.com"><img src="https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=google-drive" /></a>
 </p>
 
